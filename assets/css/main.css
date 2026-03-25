@@ -82,7 +82,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #D4D9DD url("images/bg03.jpg");
+		background: #ffffff;
 		color: #474f51;
 		font-size: 13.5pt;
 		font-family: 'Yanone Kaffeesatz';
@@ -1514,7 +1514,7 @@ input, select, textarea {
 		background: #3B4346 url("images/bg01.jpg");
 		border-bottom: solid 1px #272d30;
 		box-shadow: inset 0px -1px 0px 0px #51575a;
-		text-shadow: none;
+		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 	}
 
 		#header > .container {
@@ -1542,7 +1542,7 @@ input, select, textarea {
 		}
 
 			#header nav a {
-				color: #6a7175;
+				color: #c6c8c8;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
@@ -1550,7 +1550,7 @@ input, select, textarea {
 			}
 
 				#header nav a:hover {
-					color: #222222;
+					color: #f6f8f8;
 				}
 
 		.subpage #header > .container {
@@ -1563,7 +1563,7 @@ input, select, textarea {
 		border-top: solid 1px #222628;
 		box-shadow: inset 0px 1px 0px 0px #3e484a;
 		padding: 35px 0 35px 0;
-		color: #5a6165;
+		color: #fff;
 	}
 
 		#banner .bordered-feature-image {
